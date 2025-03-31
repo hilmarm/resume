@@ -1,7 +1,7 @@
 # My new resume
 Here is my brand new CV, made with love and LaTex.
 
-![Developer CV](main.pdf "developer resume")
+![Developer CV](main-1.png)
 
 ## Prerequisites
 
